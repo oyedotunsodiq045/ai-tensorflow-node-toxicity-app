@@ -1,6 +1,4 @@
-# ai-tensorflow-node-toxicity-app
-
-> Text Toxicity Detector API. [GitHub Repo](https://github.com/oyedotunsodiq045/ai-tensorflow-node-toxicity-app).
+# Text Toxicity Detector API. [GitHub Repo](https://github.com/oyedotunsodiq045/ai-tensorflow-node-toxicity-app).
 
 > Building a Toxicity Classification App in JavaScript with [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/en/starter/generator.html) &amp; [Tensorflow](https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
 
