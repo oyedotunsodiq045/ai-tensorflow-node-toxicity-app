@@ -26,4 +26,6 @@ PS> $env:DEBUG='ai-tensorflow-node-toxicity-app:*'; npm start
 | ------------------------------------------------------------------------------------ | ---------------------------- |
 | POST &nbsp; &nbsp; &nbsp; http://localhost:3000/text                                 | Classify text                |
 
+![alt text](image-1.png)
+
 ![alt text](image.png)

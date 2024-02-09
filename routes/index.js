@@ -34,7 +34,7 @@ router.post('/text', function (req, res, next) {
       
       //return a message about the predictions
       let message;
-      predictionArray.length > 0 ? message = "We have fould this text offensive" : message = "Good"
+      predictionArray.length > 0 ? message = "This text is offensive" : message = "Good"
       res.status(201).json({ 'message' : message, 'result' : predictionArray });
 
     });
